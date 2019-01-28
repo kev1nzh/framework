@@ -1,0 +1,1 @@
+{"version":3,"file":"BrandInfo.js","sourceRoot":"","sources":["../../../src/core/entities/BrandInfo.ts"],"names":[],"mappings":"AAKA,MAAM,OAAO,SAAS;IAElB,YAAY,OAAe,EAAE,SAAiB;QAC1C,IAAI,CAAC,OAAO,GAAG,OAAO,CAAC;QACvB,IAAI,CAAC,SAAS,GAAG,SAAS,CAAC;IAC/B,CAAC;IAcD,gBAAgB;QACZ,OAAO,IAAI,CAAC;IAChB,CAAC;CACJ"}

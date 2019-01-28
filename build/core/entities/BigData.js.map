@@ -1,0 +1,1 @@
+{"version":3,"file":"BigData.js","sourceRoot":"","sources":["../../../src/core/entities/BigData.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,2BAA2B,CAAC;AAE5D,MAAM,OAAO,OAAQ,SAAQ,eAAuB;IAKhD;QACI,KAAK,EAAE,CAAC;IACZ,CAAC;IAUD,aAAa;QACT,OAAO;YACH,IAAI,EAAE,SAAS;YACf,KAAK,EAAE,SAAS;YAChB,IAAI,EAAE,MAAM;SACf,CAAA;IACL,CAAC;IAAA,CAAC;CAEL"}
